@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publications"
+title: Publications
 ---
 
 This is just a test [Klammsteiner et al. 2020](/docs/_publications/klammsteiner-et-al-2020-on-everyones-lips.pdf)
