@@ -50,11 +50,14 @@ title: "Research"
 [website](https://nachhaltigwirtschaften.at/de/iea/news/2012/20120627-mitteilungsblatt-biobased-future.php)
 
 ### Supervised students
-**Anna Serra**:  
+**Anna Serra**:
 * Modelle und Konzepte zur Zucht von _Hermetia illucens_  
-**Katharina Stonig**:  
+
+**Katharina Stonig**:
 * Microbial Colonization on Different Developmental Stages of the Black Soldier Fly _Hermetia illucens_  
-**Lisa Scharinger**:  
+
+**Lisa Scharinger**:
 * Metagenomsequenzierung und bioinformatische Datenanalyse.  
-**Simon Oberegger**:  
+
+**Simon Oberegger**:
 * The Microbiota on the Surface of Black Soldier Fly (_Hermetia illucens_) larvae.  
