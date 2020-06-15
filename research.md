@@ -51,13 +51,13 @@ title: "Research"
 
 ### Supervised students
 **Anna Serra**:  
-    * Modelle und Konzepte zur Zucht von _Hermetia illucens_  
+    Modelle und Konzepte zur Zucht von _Hermetia illucens_  
 
 **Katharina Stonig**:  
-    * Microbial Colonization on Different Developmental Stages of the Black Soldier Fly _Hermetia illucens_  
+    Microbial Colonization on Different Developmental Stages of the Black Soldier Fly _Hermetia illucens_  
 
 **Lisa Scharinger**:  
-    * Metagenomsequenzierung und bioinformatische Datenanalyse.  
+    Metagenomsequenzierung und bioinformatische Datenanalyse.  
 
 **Simon Oberegger**:  
-    * The Microbiota on the Surface of Black Soldier Fly (_Hermetia illucens_) larvae.  
+    The Microbiota on the Surface of Black Soldier Fly (_Hermetia illucens_) larvae.  
