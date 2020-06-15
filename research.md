@@ -39,9 +39,18 @@ title: "Research"
 [poster](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization2.pdf)
 
 ### Workshops
+**Six-legged livestock: a house for the critters.** Thomas Klammsteiner, Andreas Walter, Heribert Insam. _Conducted at the 2nd Austrian Conference on International Resource Politics_, 2019.  
+[abstract](docs/conferences/klammsteiner-et-al-2019-six-legged-livestock.pdf) | 
+[website](https://www.uibk.ac.at/congress/resource-conference/)
 
 
 ### Other publications
-
+**Vom Abfall zum Futtermittel: Maden als Proteinquelle.** Thomas Klammsteiner, Carina D. Heussler, Andreas Walter, Heribert Insam. _Biobased Future - Mitteilungsblatt über Biomasse für Energie und Industrie in einer nachhaltigen Wirtschaft_, 2018.  
+[article](docs/other/klammsteiner-et-al-2018-vom-abfall-zum-futtermittel.pdf) | 
+[website](https://nachhaltigwirtschaften.at/de/iea/news/2012/20120627-mitteilungsblatt-biobased-future.php)
 
 ### Supervised students
+**Anna Serra**: Modelle und Konzepte zur Zucht von _Hermetia illucens_  
+**Katharina Stonig**: Microbial Colonization on Different Developmental Stages of the Black Soldier Fly _Hermetia illucens_  
+**Lisa Scharinger**: Metagenomsequenzierung und bioinformatische Datenanalyse.  
+**Simon Oberegger**: The Microbiota on the Surface of Black Soldier Fly (_Hermetia illucens_) larvae.  
