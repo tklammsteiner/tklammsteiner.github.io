@@ -18,6 +18,13 @@ title: "Research"
 [pdf](docs/publications/klammsteiner-et-al-2018-microbiota-in-a-cooling-lubrication-circuit.pdf)
 
 ### Conference contributions
+**A citizen science-based approach to promote circular economy in the context of a fast-growing insect industry.** Thomas Klammsteiner, Andreas Walter, Carina D. Heussler, Magdalena Gassner, Heribert Insam. _Presented at the 8th International Conference on Sustainable Solid Waste Management_, 2021
+[abstract](docs/conferences/klammsteiner-et-al-2020-a-citizen-science-based-approach-to-promote-circular-economy.pdf) | 
+[website](www.thessaloniki2020.uest.gr/index.php/en/)
+
+**In aller Munde: Insekten als Nahrungs- und Futtermittel.** Thomas Klammsteiner, Andreas Walter, Heinrich Pan, Magdalena Gassner, Carina D. Heussler, Markus Schermer, Heribert Insam. _Presented at the 5th Austrian Citizen Science Conference_, 2019.
+[abstract](docs/conferences/klammsteiner-et-al-2019-in-aller-munde.pdf) | 
+[poster](docs/conferences/klammsteiner-et-al-2019-in-aller-munde2.pdf)
 
 
 ### Workshops
