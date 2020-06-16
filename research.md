@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Research"
+order: 3
 ---
 
 ### Publications
