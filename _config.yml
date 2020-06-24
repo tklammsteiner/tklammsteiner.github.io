@@ -27,9 +27,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "tklammsteiner.github.io" # the base hostname & protocol for your site, e.g. http://tklammsteiner.github.io
 linkedin_username: tklammsteiner
 orcid_username: 0000-0003-1280-5159
-gscholar: jI_Q6tgAAAAJ&hl=de
-researchgate: Thomas_Klammsteiner
-google_analytics: UA-169366435-1
+gscholar_username: jI_Q6tgAAAAJ&hl
+researchgate_username: Thomas_Klammsteiner
 # Build settings
 theme: minima
 plugins:
