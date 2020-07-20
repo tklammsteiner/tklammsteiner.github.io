@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Research"
-order: 3
+menus:
+	header:
+		title: Research
+		weight: 1
 ---
 
 ### Publications
