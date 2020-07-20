@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-order: 2
 ---
 
 ### Current projects  
