@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Projects
-menus:
-	header:
-		title: Projects
-		weight: 3
+order: 2
 ---
 
 ### Current projects  
