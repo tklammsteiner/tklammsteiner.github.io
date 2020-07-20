@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Research
+menus:
+  header:
+    title: Home
+	weight: 1
 ---
 
 ### Publications
