@@ -1,6 +1,9 @@
 ---
 layout: page
 title: CV
-order: 4
+menus:
+	header:
+		title: About
+		weight: 4
 ---
  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: Research
 menus:
 	header:
 		title: Research
