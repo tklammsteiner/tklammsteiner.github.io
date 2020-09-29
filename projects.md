@@ -5,7 +5,7 @@ title: Projects
 
 ### Current projects  
 
-**since 2020**: Cooling-liquid microbiome revised
+**since 2020**: Cooling-liquid microbiome revisited
 
 **since 2020**: Breeding and biotechnology for insect farming  
 
