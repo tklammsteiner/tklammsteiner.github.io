@@ -38,15 +38,15 @@ title: Research
 [**abstract**](docs/conferences/klammsteiner-et-al-2019-in-aller-munde.pdf) | 
 [**poster**](docs/conferences/klammsteiner-et-al-2019-in-aller-munde2.pdf)
 
-**Black Soldier Fly (_Hermetia illucens_, Diptera: Stratiomyidae) frass as plant fertilizer.** Klammsteiner, T., Turan, V., Oberegger, S., Insam, H., Fernández-Delgado Juárez, M. _Presented at the 7th International Conference on Sustainable Solid Waste Management_, 2019.  
+**Black soldier fly (_Hermetia illucens_, Diptera: Stratiomyidae) frass as plant fertilizer.** Klammsteiner, T., Turan, V., Oberegger, S., Insam, H., Fernández-Delgado Juárez, M. _Presented at the 7th International Conference on Sustainable Solid Waste Management_, 2019.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2019-black-soldier-fly-frass-as-plant-fertilizer.pdf) | 
 [**website**](https://www.heraklion2019.uest.gr/)
 
-**Microbial community dynamics and functions in Black Soldier Fly larvae (_Hermetia illucens_, Diptera: Stratiomyidae) reared on various diets.** Klammsteiner, T., Walter, A., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Presented at the Insecta International Conference_, 2018.  
+**Microbial community dynamics and functions in black soldier fly larvae (_Hermetia illucens_, Diptera: Stratiomyidae) reared on various diets.** Klammsteiner, T., Walter, A., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Presented at the Insecta International Conference_, 2018.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2018-microbial-community-dynamics-and-functions-in-black-soldier-fly-larvae.pdf) | 
 [**website**](https://insecta-conference.com/insecta-2018)
 
-**Black Soldier Fly (_Hermetia illucens_) larvae in waste valorization and diet-based shifts in their gut microbiome.** Klammsteiner, T., Walter, A., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Presented at the 6th International Conference on Sustainable Solid Waste Management_, 2018.  
+**Black soldier fly (_Hermetia illucens_) larvae in waste valorization and diet-based shifts in their gut microbiome.** Klammsteiner, T., Walter, A., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Presented at the 6th International Conference on Sustainable Solid Waste Management_, 2018.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization.pdf) | 
 [**poster**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization2.pdf)
 
