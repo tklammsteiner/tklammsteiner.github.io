@@ -7,13 +7,13 @@ title: Research
 **Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions.** Klammsteiner, T., Walter, A., Bogataj, T., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Insam, H. 
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->  
 
-**Black Soldier Fly school workshops as means to promote circular economy and environmental awareness.** Walter, A., Klammsteiner, T., Gassner, M., Heussler, C.D., Kapelari, S., Schermer, M., Insam, H.
-<!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
-
 **Applications of machine Learning  in human microbiome studies: microbial classification, biomarker identification and disease prediction** Huseyin, C., et al.
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
 ### Publications
+**Black Soldier Fly school workshops as means to promote circular economy and environmental awareness.** Walter, A., Klammsteiner, T (Equal contribution), Gassner, M., Heussler, C.D., Kapelari, S., Schermer, M., Insam, H. *Sustainability*, XX, XX, 2020.  
+[**doi**]() | [**pdf**](docs/publications/XXX.pdf)
+
 **Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization.** Klammsteiner, T., Turan, V., Fernández-Delgado Juárez, M., Oberegger, S., Insam, H. *Agronomy*, 10(10), 1578, 2020.  
 [**doi**](https://doi.org/10.3390/agronomy10101578) | [**pdf**](docs/publications/klammsteiner-et-al-2020c.pdf)
 
