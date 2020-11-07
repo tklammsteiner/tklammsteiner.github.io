@@ -26,7 +26,7 @@ University of Innsbruck
 	[**thesis**](/docs/theses/2019-Serra.pdf)
 
 **Katharina Stonig**:  
-    Microbial Colonization on Different Developmental Stages of the Black Soldier Fly *Hermetia illucens*  
+    Microbial colonization on different developmental stages of the black soldier fly *Hermetia illucens*  
 	[**thesis**](/docs/theses/2019-Stonig.pdf)  
 
 **Lisa Scharinger**:  
@@ -34,5 +34,5 @@ University of Innsbruck
 	[**thesis**](/docs/theses/2019-Scharinger.pdf)  
 
 **Simon Oberegger**:  
-    The Microbiota on the Surface of Black Soldier Fly (*Hermetia illucens*) larvae.  
+    The microbiota on the surface of black soldier fly (*Hermetia illucens*) larvae.  
 	[**thesis**](/docs/theses/2018-Oberegger.pdf)  
