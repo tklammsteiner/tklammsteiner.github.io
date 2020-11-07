@@ -11,13 +11,13 @@ title: Research
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
 ### Publications
-**Black Soldier Fly school workshops as means to promote circular economy and environmental awareness.** Walter, A., Klammsteiner, T (Equal contribution), Gassner, M., Heussler, C.D., Kapelari, S., Schermer, M., Insam, H. *Sustainability*, XX, XX, 2020.  
+**Black soldier fly school workshops as means to promote circular economy and environmental awareness.** Walter, A., Klammsteiner, T (Equal contribution), Gassner, M., Heussler, C.D., Kapelari, S., Schermer, M., Insam, H. *Sustainability*, XX, XX, 2020.  
 [**doi**]() | [**pdf**](docs/publications/XXX.pdf)
 
 **Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization.** Klammsteiner, T., Turan, V., Fernández-Delgado Juárez, M., Oberegger, S., Insam, H. *Agronomy*, 10(10), 1578, 2020.  
 [**doi**](https://doi.org/10.3390/agronomy10101578) | [**pdf**](docs/publications/klammsteiner-et-al-2020c.pdf)
 
-**The core gut microbiome of Black Soldier Fly (_Hermetia illucens_) larvae raised on low-bioburden diets.** Klammsteiner, T., Walter, A., Tajda Bogataj, Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Frontiers in Microbiology_, 11, 2020.  
+**The core gut microbiome of black soldier fly (_Hermetia illucens_) larvae raised on low-bioburden diets.** Klammsteiner, T., Walter, A., Tajda Bogataj, Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Frontiers in Microbiology_, 11, 2020.  
 [**doi**](https://doi.org/10.3389/fmicb.2020.00993) | 
 [**pdf**](docs/publications/klammsteiner-et-al-2020b.pdf)  
   
