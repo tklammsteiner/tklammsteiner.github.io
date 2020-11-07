@@ -12,7 +12,7 @@ title: Projects
 **since 2020**: Co-housing effect on the microbiome of Black Soldier Fly larvae
 
 ### Past projects  
-**2018-2019**: Six-legged livestock: rearing Black Soldier Fly larvae on biowaste  
+**2018-2019**: Six-legged livestock: rearing black soldier fly larvae on biowaste  
 [[Klammsteiner et al. 2020a]](/docs/publications/klammsteiner-et-al-2020a.pdf)  
 
 **2014-2018**: From waste to feed: waste products as a source of protein-rich feedstuff  
