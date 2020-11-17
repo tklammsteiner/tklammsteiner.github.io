@@ -11,7 +11,7 @@ title: Research
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
 ### Publications
-**Black soldier fly school workshops as means to promote circular economy and environmental awareness.** Walter, A., Klammsteiner, T. (equal contribution), Gassner, M., Heussler, C.D., Kapelari, S., Schermer, M., Insam, H. *Sustainability*, XX, XX, 2020.  
+**Black soldier fly school workshops as means to promote circular economy and environmental awareness.** Walter, A., Klammsteiner, T. (equal contribution), Gassner, M., Heussler, C.D., Kapelari, S., Schermer, M., Insam, H. *Sustainability*, 12(22), 9574, 2020.  
 [**doi**](https://doi.org/10.3390/su12229574) | [**pdf**](docs/publications/walter-et-al-2020.pdf)
 
 **Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization.** Klammsteiner, T., Turan, V., Fernández-Delgado Juárez, M., Oberegger, S., Insam, H. *Agronomy*, 10(10), 1578, 2020.  
