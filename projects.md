@@ -13,7 +13,8 @@ title: Projects
 
 ### Past projects  
 **2018-2019**: Six-legged livestock: rearing black soldier fly larvae on biowaste  
-[[Klammsteiner et al. 2020a]](/docs/publications/klammsteiner-et-al-2020a.pdf)  
+[[Klammsteiner et al. 2020a]](/docs/publications/klammsteiner-et-al-2020a.pdf) 
+[[Walter and Klammsteiner et al. 2020](/docs/publications/walter-et-al-2020.pdf)  
 
 **2014-2018**: From waste to feed: waste products as a source of protein-rich feedstuff  
 [[Heussler et al. 2018]](/docs/publications/heussler-et-al-2018.pdf) 
