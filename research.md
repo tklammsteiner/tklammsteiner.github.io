@@ -7,7 +7,7 @@ title: Research
 **Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions.** Klammsteiner, T., Walter, A., Bogataj, T., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Insam, H. _TBA_  
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->  
 
-**Applications of machine Learning  in human microbiome studies: microbial classification, biomarker identification and disease prediction.** Marcos Zambrano, L.J., et al. _TBA_  
+**Applications of machine Learning  in human microbiome studies: microbial classification, biomarker identification and disease prediction.** Marcos Zambrano, L.J., Karaduzovic-Hadziabdic, K., Loncar-Turukalo, T., Przymus, P., Trajkovik, V., Aasmets, O., Berland, M., Gruca, A., Hasic Telalovic, J., Karel, H., Klammsteiner, T., Kolev, M., Lahti, L., Lopes, M.B., Moreno, V., Naskinova, I., Org, E., Paciencia, I., Papoutsoglou, G., Shigdel, R., Stres, B., Vilne, B., Yousef, M., Carrillo de Santa Pau, E., Claesson, M., Moreno Indias, I., Truu, J.  _TBA_  
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
 **Statistical and machine learning techniques in human microbiome studies: contemporary challenges and solutions.**  Moreno-Indias, I., et al. _TBA_  
