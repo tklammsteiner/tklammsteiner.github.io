@@ -10,7 +10,7 @@ title: Research
 **Applications of machine Learning  in human microbiome studies: microbial classification, biomarker identification and disease prediction.** Marcos Zambrano, L.J., et al.
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
-**Statistical and machine learning techniques in human microbiome studies: contemporary challenges and solutions**  Moreno-Indias, I.
+**Statistical and machine learning techniques in human microbiome studies: contemporary challenges and solutions.**  Moreno-Indias, I.
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
 ### Publications
