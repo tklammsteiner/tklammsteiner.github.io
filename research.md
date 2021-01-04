@@ -4,9 +4,6 @@ title: Research
 ---
 
 ### Currently in preparation/under review
-**Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions.** Klammsteiner, T., Walter, A., Bogataj, T., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Insam, H. _TBA_  
-<!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->  
-
 **Applications of machine Learning  in human microbiome studies: microbial classification, biomarker identification and disease prediction.** Marcos Zambrano, L.J., Karaduzovic-Hadziabdic, K., Loncar-Turukalo, T., Przymus, P., Trajkovik, V., Aasmets, O., Berland, M., Gruca, A., Hasic Telalovic, J., Karel, H., Klammsteiner, T., Kolev, M., Lahti, L., Lopes, M.B., Moreno, V., Naskinova, I., Org, E., Paciencia, I., Papoutsoglou, G., Shigdel, R., Stres, B., Vilne, B., Yousef, M., Carrillo de Santa Pau, E., Claesson, M., Moreno Indias, I., Truu, J. _TBA_  
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
@@ -14,13 +11,16 @@ title: Research
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
 ### Publications
+**Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions.** Klammsteiner, T., Walter, A., Bogataj, T., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Insam, H. _Frontiers in Microbiology_, TBA, TBA, 2021.    
+[**doi**](https://doi.org/10.3389/fmicb.2021.619112) | [**pdf**](docs/publications/klammsteiner-et-al-2021a.pdf)  
+
 **Black soldier fly school workshops as means to promote circular economy and environmental awareness.** Walter, A., Klammsteiner, T. (equal contribution), Gassner, M., Heussler, C.D., Kapelari, S., Schermer, M., Insam, H. *Sustainability*, 12(22), 9574, 2020.  
 [**doi**](https://doi.org/10.3390/su12229574) | [**pdf**](docs/publications/walter-et-al-2020.pdf)
 
 **Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization.** Klammsteiner, T., Turan, V., Fernández-Delgado Juárez, M., Oberegger, S., Insam, H. *Agronomy*, 10(10), 1578, 2020.  
 [**doi**](https://doi.org/10.3390/agronomy10101578) | [**pdf**](docs/publications/klammsteiner-et-al-2020c.pdf)
 
-**The core gut microbiome of black soldier fly (_Hermetia illucens_) larvae raised on low-bioburden diets.** Klammsteiner, T., Walter, A., Tajda Bogataj, Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Frontiers in Microbiology_, 11, 2020.  
+**The core gut microbiome of black soldier fly (_Hermetia illucens_) larvae raised on low-bioburden diets.** Klammsteiner, T., Walter, A., Tajda Bogataj, Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Frontiers in Microbiology_, 11, 993, 2020.  
 [**doi**](https://doi.org/10.3389/fmicb.2020.00993) | 
 [**pdf**](docs/publications/klammsteiner-et-al-2020b.pdf)  
   
