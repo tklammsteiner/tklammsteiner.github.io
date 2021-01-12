@@ -4,17 +4,23 @@ title: Teaching
 ---
 
 ### Courses
+**Lecture**: Environmental Biotechnology  
+Department of Food Science & Biotechnology  
+MCI - The Entrepreneurial School  
+*Summer Term 2021;*  
+[**link**](https://www.mci.edu/de/forschung/schwerpunkte/food-science-biotechnology)  
+
 **Lecture**: Sustainability & Natural Sciences  
 Department of Nonprofit, Social & Health Care Management  
 MCI-The Entrepreneurial School  
 *Winter term 2020;*  
-[**link**](https://lfuonline.uibk.ac.at/public/lfuonline_lv.home#lv-details)
+[**link**](https://www.mci.edu/en/study/bachelor/nonprofit-social-health-care-management)  
 
 **Laboratory course:** Waste Management: Biogas  
 Department of Microbiology  
 University of Innsbruck  
 *Winter term 2018, 2019, 2020;*   
-[**link**](https://www.mci.edu/en/study/bachelor/nonprofit-social-health-care-management)
+[**link**](https://www.uibk.ac.at/microbiology/)
 
 
 ### Supervised students
