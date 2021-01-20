@@ -11,7 +11,7 @@ title: Research
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
 ### Publications
-**Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions.** Klammsteiner, T., Walter, A., Bogataj, T., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Insam, H. _Frontiers in Microbiology_, TBA, TBA, 2021.    
+**Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions.** Klammsteiner, T., Walter, A., Bogataj, T., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Insam, H. _Frontiers in Microbiology_ 12, 619112, 2021.    
 [**doi**](https://doi.org/10.3389/fmicb.2021.619112) | [**pdf**](docs/publications/klammsteiner-et-al-2021a.pdf)  
 
 **Black soldier fly school workshops as means to promote circular economy and environmental awareness.** Walter, A., Klammsteiner, T. (equal contribution), Gassner, M., Heussler, C.D., Kapelari, S., Schermer, M., Insam, H. *Sustainability*, 12(22), 9574, 2020.  
