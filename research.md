@@ -7,10 +7,11 @@ title: Research
 **Applications of machine Learning  in human microbiome studies: microbial classification, biomarker identification and disease prediction.** Marcos Zambrano, L.J., Karaduzovic-Hadziabdic, K., Loncar-Turukalo, T., Przymus, P., Trajkovik, V., Aasmets, O., Berland, M., Gruca, A., Hasic Telalovic, J., Karel, H., Klammsteiner, T., Kolev, M., Lahti, L., Lopes, M.B., Moreno, V., Naskinova, I., Org, E., Paciencia, I., Papoutsoglou, G., Shigdel, R., Stres, B., Vilne, B., Yousef, M., Carrillo de Santa Pau, E., Claesson, M., Moreno Indias, I., Truu, J. _TBA_  
 <!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
-**Statistical and machine learning techniques in human microbiome studies: contemporary challenges and solutions.**  Moreno-Indias, I., Lahti, L., Nedyalkova, M., Elbere, I., Roshchupkin, G.V., Adilovic, M., Aydemir, O., Bakir-Gungor, B., Carrillo de Santa Pau, E., D'elia, D., Desai, M.S., Falquet, L., Gundogdu, A., Hron, K., Klammsteiner, T., Lopes, M.B., Marcos Zambrano, L.J., Marques, C., May, P., Pasic, L., Pio, G., Pongor, S., Promponas, V.J., Przymus, P., Sampri, A., Shigdel, R., Stres, B., Suharoschi, R., Truu, J., Truica, C.-O., Vilne, B., Vlachakis, D.P., Yilmaz, E., Zeller, G., Zomer, A., Gómez-Cabrero, D., Claesson, M. _TBA_  
-<!---\\[**doi**]() | [**pdf**](docs/publications/XXX.pdf)-->
 
 ### Publications
+**Statistical and machine learning techniques in human microbiome studies: contemporary challenges and solutions.**  Moreno-Indias, I., Lahti, L., Nedyalkova, M., Elbere, I., Roshchupkin, G.V., Adilovic, M., Aydemir, O., Bakir-Gungor, B., Carrillo de Santa Pau, E., D'elia, D., Desai, M.S., Falquet, L., Gundogdu, A., Hron, K., Klammsteiner, T., Lopes, M.B., Marcos Zambrano, L.J., Marques, C., May, P., Pasic, L., Pio, G., Pongor, S., Promponas, V.J., Przymus, P., Sampri, A., Shigdel, R., Stres, B., Suharoschi, R., Truu, J., Truica, C.-O., Vilne, B., Vlachakis, D.P., Yilmaz, E., Zeller, G., Zomer, A., Gómez-Cabrero, D., Claesson, M. _Frontiers in Microbiology_ TBA, 635781, 2021.  
+[**doi**](https://10.3389/fmicb.2021.635781) | [**pdf**](docs/publications/moreno-indias-et-al-2021.pdf)
+
 **Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions.** Klammsteiner, T., Walter, A., Bogataj, T., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Insam, H. _Frontiers in Microbiology_ 12, 619112, 2021.    
 [**doi**](https://doi.org/10.3389/fmicb.2021.619112) | [**pdf**](docs/publications/klammsteiner-et-al-2021a.pdf)  
 
