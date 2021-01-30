@@ -40,7 +40,7 @@ TBA
 [**abstract**](docs/conferences/klammsteiner-et-al-2020-a-citizen-science-based-approach-to-promote-circular-economy.pdf) | 
 [**website**](www.thessaloniki2020.uest.gr/index.php/en/)
 
-**Growth and health indicators during artificial rearing of the black soldier fly.** Klammsteiner, T., Stres, B. _Presented at the 7^th^ Scientific Conference on Research Challenges in Animal Husbandry - Animal health and monitoring of animal health indicators: solutions, positions, views and future directions_, Ljubljana, Slovenia. 2021.  
+**Growth and health indicators during artificial rearing of the black soldier fly.** Klammsteiner, T., Stres, B. _Presented at the 7th Scientific Conference on Research Challenges in Animal Husbandry - Animal health and monitoring of animal health indicators: solutions, positions, views and future directions_, Ljubljana, Slovenia. 2021.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2021-health-indicators.pdf) | 
 [**website**](https://www.bf.uni-lj.si/sl/organiziranost/zootehnika/novice/2021011409094716/locniskarjevi-dnevi,-28-1-2021)
 
