@@ -36,23 +36,27 @@ TBA
 [**pdf**](docs/publications/klammsteiner-et-al-2018.pdf)
 
 ### Conference contributions
-**A citizen science-based approach to promote circular economy in the context of a fast-growing insect industry.** Klammsteiner, T., Walter, A., Heussler, C.D., Gassner, M., Insam, H. _Presented at the 8th International Conference on Sustainable Solid Waste Management_, 2021  
+**A citizen science-based approach to promote circular economy in the context of a fast-growing insect industry.** Klammsteiner, T., Walter, A., Heussler, C.D., Gassner, M., Insam, H. _Presented at the 8th International Conference on Sustainable Solid Waste Management_, Thessaloniki, Greece. 2021.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2020-a-citizen-science-based-approach-to-promote-circular-economy.pdf) | 
 [**website**](www.thessaloniki2020.uest.gr/index.php/en/)
 
-**In aller Munde: Insekten als Nahrungs- und Futtermittel.** Klammsteiner, T., Walter, A., Pan, H., Gassner, M., Heussler, C.D., Schermer, M., Insam, H. _Presented at the 5th Austrian Citizen Science Conference_, 2019.  
+**Growth and health indicators during artificial rearing of the black soldier fly.** Klammsteiner, T., Stres, B. _Presented at the 7^th^ Scientific Conference on Research Challenges in Animal Husbandry - Animal health and monitoring of animal health indicators: solutions, positions, views and future directions_, Ljubljana, Slovenia. 2021.  
+[**abstract**](docs/conferences/klammsteiner-et-al-2021-health-indicators.pdf) | 
+[**website**](https://www.bf.uni-lj.si/sl/organiziranost/zootehnika/novice/2021011409094716/locniskarjevi-dnevi,-28-1-2021)
+
+**In aller Munde: Insekten als Nahrungs- und Futtermittel.** Klammsteiner, T., Walter, A., Pan, H., Gassner, M., Heussler, C.D., Schermer, M., Insam, H. _Presented at the 5th Austrian Citizen Science Conference_, Obergurgl, Austria. 2019.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2019-in-aller-munde.pdf) | 
 [**poster**](docs/conferences/klammsteiner-et-al-2019-in-aller-munde2.pdf)
 
-**Black soldier fly (_Hermetia illucens_, Diptera: Stratiomyidae) frass as plant fertilizer.** Klammsteiner, T., Turan, V., Oberegger, S., Insam, H., Fernández-Delgado Juárez, M. _Presented at the 7th International Conference on Sustainable Solid Waste Management_, 2019.  
+**Black soldier fly (_Hermetia illucens_, Diptera: Stratiomyidae) frass as plant fertilizer.** Klammsteiner, T., Turan, V., Oberegger, S., Insam, H., Fernández-Delgado Juárez, M. _Presented at the 7th International Conference on Sustainable Solid Waste Management_, Heraklion, Greece. 2019.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2019-black-soldier-fly-frass-as-plant-fertilizer.pdf) | 
 [**website**](https://www.heraklion2019.uest.gr/)
 
-**Microbial community dynamics and functions in black soldier fly larvae (_Hermetia illucens_, Diptera: Stratiomyidae) reared on various diets.** Klammsteiner, T., Walter, A., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Presented at the Insecta International Conference_, 2018.  
+**Microbial community dynamics and functions in black soldier fly larvae (_Hermetia illucens_, Diptera: Stratiomyidae) reared on various diets.** Klammsteiner, T., Walter, A., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Presented at the Insecta International Conference_, Giessen, Germany. 2018.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2018-microbial-community-dynamics-and-functions-in-black-soldier-fly-larvae.pdf) | 
 [**website**](https://insecta-conference.com/insecta-2018)
 
-**Black soldier fly (_Hermetia illucens_) larvae in waste valorization and diet-based shifts in their gut microbiome.** Klammsteiner, T., Walter, A., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Presented at the 6th International Conference on Sustainable Solid Waste Management_, 2018.  
+**Black soldier fly (_Hermetia illucens_) larvae in waste valorization and diet-based shifts in their gut microbiome.** Klammsteiner, T., Walter, A., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Presented at the 6th International Conference on Sustainable Solid Waste Management_, Naxos, Greece. 2018.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization.pdf) | 
 [**poster**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization2.pdf)
 
