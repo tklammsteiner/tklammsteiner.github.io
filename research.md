@@ -38,7 +38,7 @@ TBA
 ### Conference contributions
 **A citizen science-based approach to promote circular economy in the context of a fast-growing insect industry.** Klammsteiner, T., Walter, A., Heussler, C.D., Gassner, M., Insam, H. _Presented at the 8th International Conference on Sustainable Solid Waste Management_, Thessaloniki, Greece. 2021.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2020-a-citizen-science-based-approach-to-promote-circular-economy.pdf) | 
-[**website**](www.thessaloniki2021.uest.gr/index.php/en/)
+[**website**](https://www.thessaloniki2021.uest.gr/index.php/en/)
 
 **Growth and health indicators during artificial rearing of the black soldier fly.** Klammsteiner, T., Stres, B. _Presented at the 7th Scientific Conference on Research Challenges in Animal Husbandry - Animal health and monitoring of animal health indicators: solutions, positions, views and future directions_, Ljubljana, Slovenia. 2021.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2021-health-indicators.pdf) | 
