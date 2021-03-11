@@ -23,11 +23,11 @@ TBA
 **Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization.** Klammsteiner, T., Turan, V., Fernández-Delgado Juárez, M., Oberegger, S., Insam, H. *Agronomy*, 10(10), 1578, 2020.  
 [**doi**](https://doi.org/10.3390/agronomy10101578) | [**pdf**](docs/publications/klammsteiner-et-al-2020c.pdf)
 
-**The core gut microbiome of black soldier fly (_Hermetia illucens_) larvae raised on low-bioburden diets.** Klammsteiner, T., Walter, A., Tajda Bogataj, Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Frontiers in Microbiology_, 11, 993, 2020.  
+**The core gut microbiome of black soldier fly (_Hermetia illucens_) larvae raised on low-bioburden diets.** Klammsteiner, T., Walter, A., Bogataj, T., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Frontiers in Microbiology_, 11, 993, 2020.  
 [**doi**](https://doi.org/10.3389/fmicb.2020.00993) | 
 [**pdf**](docs/publications/klammsteiner-et-al-2020b.pdf)  
   
-**On everyone’s lips: insects for food and feed.** Klammsteiner, T., Walter, A., Heinrich Pan, Gassner, M., Heussler, C.D., Schermer, M., Insam, H. _Proceedings of Science_, 366, 2020.  
+**On everyone’s lips: insects for food and feed.** Klammsteiner, T., Walter, A., Pan, H., Gassner, M., Heussler, C.D., Schermer, M., Insam, H. _Proceedings of Science_, 366, 2020.  
 [**doi**](https://doi.org/10.22323/1.366.0006) | 
 [**pdf**](docs/publications/klammsteiner-et-al-2020a.pdf)  
   
