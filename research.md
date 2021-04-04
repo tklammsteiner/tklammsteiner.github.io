@@ -64,7 +64,7 @@ TBA
 [**abstract**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization.pdf) | 
 [**poster**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization2.pdf)
 
-### Workshops
+### Scientific workshops
 **Six-legged livestock: a house for the critters.** Klammsteiner, T., Walter, A., Insam, H. _Conducted at the 2nd Austrian Conference on International Resource Politics_, 2019.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2019-six-legged-livestock.pdf) | 
 [**website**](https://www.uibk.ac.at/congress/resource-conference/)
