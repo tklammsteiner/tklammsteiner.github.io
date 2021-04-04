@@ -36,6 +36,10 @@ TBA
 [**pdf**](docs/publications/klammsteiner-et-al-2018.pdf)
 
 ### Conference contributions
+**How high-performance computing brings our understanding of insect-based gut microbiomes to the next level.** Klammsteiner, T., Insam, H., Murovec, B., Stres, B. _Presented at the 1st Austrian-Slovenian High-Performance Computing Meeting_, Maribor, Slovenia. 2021.  
+[**abstract**](docs/conferences/klammsteiner-et-al-2021-hpc-meeting.pdf) | 
+[**website**](https://ashpc21.si/)
+
 **A citizen science-based approach to promote circular economy in the context of a fast-growing insect industry.** Klammsteiner, T., Walter, A., Heussler, C.D., Gassner, M., Insam, H. _Presented at the 8th International Conference on Sustainable Solid Waste Management_, Thessaloniki, Greece. 2021.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2020-a-citizen-science-based-approach-to-promote-circular-economy.pdf) | 
 [**website**](https://www.thessaloniki2021.uest.gr/index.php/en/)
