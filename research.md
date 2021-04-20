@@ -50,7 +50,8 @@ TBA
 
 **In aller Munde: Insekten als Nahrungs- und Futtermittel.** Klammsteiner, T., Walter, A., Pan, H., Gassner, M., Heussler, C.D., Schermer, M., Insam, H. _Presented at the 5th Austrian Citizen Science Conference_, Obergurgl, Austria. 2019.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2019-in-aller-munde.pdf) | 
-[**poster**](docs/conferences/klammsteiner-et-al-2019-in-aller-munde2.pdf)
+[**poster**](docs/conferences/klammsteiner-et-al-2019-in-aller-munde2.pdf) |
+[**website**](https://www.citizen-science.at/konferenz/oesterreichische-citizen-science-konferenz-2019)
 
 **Black soldier fly (_Hermetia illucens_, Diptera: Stratiomyidae) frass as plant fertilizer.** Klammsteiner, T., Turan, V., Oberegger, S., Insam, H., Fernández-Delgado Juárez, M. _Presented at the 7th International Conference on Sustainable Solid Waste Management_, Heraklion, Greece. 2019.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2019-black-soldier-fly-frass-as-plant-fertilizer.pdf) | 
@@ -61,8 +62,9 @@ TBA
 [**website**](https://insecta-conference.com/insecta-2018)
 
 **Black soldier fly (_Hermetia illucens_) larvae in waste valorization and diet-based shifts in their gut microbiome.** Klammsteiner, T., Walter, A., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Presented at the 6th International Conference on Sustainable Solid Waste Management_, Naxos, Greece. 2018.  
-[**abstract**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization.pdf) | 
-[**poster**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization2.pdf)
+[**abstract**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization2.pdf) | 
+[**poster**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization.pdf) | 
+[**website**](https://www.naxos2018.uest.gr/)
 
 ### Scientific workshops
 **Six-legged livestock: a house for the critters.** Klammsteiner, T., Walter, A., Insam, H. _Conducted at the 2nd Austrian Conference on International Resource Politics_, 2019.  
