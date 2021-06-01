@@ -13,7 +13,7 @@ MCI - The Entrepreneurial School
 **Lecture**: Sustainability & Natural Sciences  
 Department of Nonprofit, Social & Health Care Management  
 MCI-The Entrepreneurial School  
-*Winter term 2020, 2021;* 
+*Winter term 2020, 2021;*  
 [**link**](https://www.mci.edu/en/study/bachelor/nonprofit-social-health-care-management)  
 
 **Laboratory course:** Waste Management: Biogas  
