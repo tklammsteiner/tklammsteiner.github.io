@@ -38,6 +38,7 @@ TBA
 ### Conference contributions
 **How high-performance computing brings our understanding of insect-based gut microbiomes to the next level.** Klammsteiner, T., Insam, H., Murovec, B., Stres, B. _Presented at the 1st Austrian-Slovenian High-Performance Computing Meeting_, Maribor, Slovenia. 2021.  
 [**abstract**](docs/conferences/klammsteiner-et-al-2021-hpc-meeting.pdf) | 
+[**poster**](docs/conferences/klammsteiner-et-al-2021-hpc-meeting2.pdf) | 
 [**website**](https://ashpc21.si/)
 
 **A citizen science-based approach to promote circular economy in the context of a fast-growing insect industry.** Klammsteiner, T., Walter, A., Heussler, C.D., Gassner, M., Insam, H. _Presented at the 8th International Conference on Sustainable Solid Waste Management_, Thessaloniki, Greece. 2021.  
@@ -62,8 +63,8 @@ TBA
 [**website**](https://insecta-conference.com/insecta-2018)
 
 **Black soldier fly (_Hermetia illucens_) larvae in waste valorization and diet-based shifts in their gut microbiome.** Klammsteiner, T., Walter, A., Heussler, C.D., Stres, B., Steiner, F.M., Schlick-Steiner, B.C., Arthofer, W., Insam, H. _Presented at the 6th International Conference on Sustainable Solid Waste Management_, Naxos, Greece. 2018.  
-[**abstract**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization2.pdf) | 
-[**poster**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization.pdf) | 
+[**abstract**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization.pdf) | 
+[**poster**](docs/conferences/klammsteiner-et-al-2018-black-soldier-fly-larvae-in-waste-valorization2.pdf) | 
 [**website**](https://www.naxos2018.uest.gr/)
 
 ### Scientific workshops
