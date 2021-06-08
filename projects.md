@@ -5,13 +5,13 @@ title: Projects
 
 ### Current projects  
 
-**since 2020**: Cooling-liquid microbiome revisited
-
-**since 2020**: Insect breeding and biotechnology
-
 **since 2020**: Co-housing effect on the microbiome of Black Soldier Fly larvae
 
 ### Past projects  
+**2020-2021**: Breeding and Biotechnology for Insect Farming (Part 1)
+
+**2020**: Cooling-liquid microbiome revisited
+
 **2018-2019**: Six-legged livestock: rearing black soldier fly larvae on biowaste  
 [[Klammsteiner et al. 2020a]](/docs/publications/klammsteiner-et-al-2020a.pdf) 
 [[Walter and Klammsteiner et al. 2020]](/docs/publications/walter-et-al-2020.pdf)  
