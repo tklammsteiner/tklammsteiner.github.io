@@ -9,7 +9,6 @@ email: thomas.klammsteiner@uibk.ac.at
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   microbes | environment | data
 footer_text: >
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: microbiome, data science, microbial communities, insect biotechnology, insects, waste management, anaerobic digestion, bioinformatics  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
