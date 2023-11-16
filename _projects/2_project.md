@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: "2022-2026"
+description: Towards decrypting the semiochemical communication between microbes and black soldier flies involved in oviposition
 img: assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: basic research
 ---
 
 Every project has a beautiful feature showcase page.

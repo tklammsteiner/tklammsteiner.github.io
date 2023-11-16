@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: "2022-2024"
+description: Expanding the value chain – biological extraction of chitosan for insect-based waste bioconversion
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: applied research
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
