@@ -2,7 +2,7 @@
 layout: page
 title: "2023"
 description: "Frass4Gas: Thailand"
-img: assets/img/7.jpg
+img: assets/img/f4g_thailand.jpg
 importance: 3
 category: basic research
 ---
