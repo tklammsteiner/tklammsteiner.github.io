@@ -2,13 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: microbes | environment | data
+subtitle: <b>microbes | environment | data</b>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  address: >
+    <p>Postdoctoral researcher<br>
+       Department of Microbiology & Department of Ecology<br>
+       University of Innsbruck, Innsbruck, Austria</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

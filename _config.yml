@@ -64,13 +64,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: "tklammsteiner" # your GitHub user name
-twitter_username: "fromwastetofeed" # your Twitter handle
+# twitter_username: "fromwastetofeed" # your Twitter handle
 linkedin_username: "tklammsteiner" # your LinkedIn user name
 scholar_userid: "jI_Q6tgAAAAJ&hl=de" # your Google Scholar ID
-orcid_id: "0000-0003-1280-5159" # your ORCID ID
+#orcid_id: "0000-0003-1280-5159" # your ORCID ID
 research_gate_profile: "Thomas-Klammsteiner" # your profile on ResearchGate
-work_url: "https://www.fromwastetofeed.com" # work page URL
-instagram_id: "fromwastetofeed" # your instagram id
+# work_url: "https://www.fromwastetofeed.com" # work page URL
+# instagram_id: "fromwastetofeed" # your instagram id
 
 contact_note: >
   Feel free to reach out via mail.
