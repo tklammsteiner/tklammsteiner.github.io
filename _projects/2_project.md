@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "2022-2026"
-description: Towards decrypting the semiochemical communication between microbes and black soldier flies involved in oviposition
+title: ""
+description: "2022-2026: Towards decrypting the semiochemical communication between microbes and black soldier flies involved in oviposition"
 img: assets/img/semchemcom.jpg
 importance: 2
 category: basic research

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "2023"
-description: "Frass4Gas: Thailand"
+title: ""
+description: "2023: Frass4Gas Thailand"
 img: assets/img/f4g_thailand.jpg
 importance: 3
 category: basic research

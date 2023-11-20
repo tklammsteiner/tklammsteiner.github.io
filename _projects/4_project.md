@@ -1,11 +1,10 @@
 ---
 layout: page
 title: ""
-description: "2022-2024: Expanding the value chain – biological extraction of chitosan for insect-based waste bioconversion"
-img: assets/img/chitobsf.jpg
-importance: 1
+description: "2021-2022: Breeding and biotechnology for insect farming (Part 2)"
+img: 
+importance: 4
 category: applied research
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
