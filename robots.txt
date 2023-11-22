@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tklammsteiner.github.io/al-folio-test//sitemap.xml
+Sitemap: https://tklammsteiner.github.io/sitemap.xml
