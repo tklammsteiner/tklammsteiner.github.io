@@ -5,7 +5,7 @@ permalink: /projects/
 description: Current and completed projects.
 nav: true
 nav_order: 2
-display_categories: [basic research, applied research]
+display_categories: [basic research, applied research, commissioned research]
 horizontal: false
 ---
 
