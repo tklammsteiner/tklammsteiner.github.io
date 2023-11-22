@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tklammsteiner.github.io/sitemap.xml
+Sitemap: https://tklammsteiner.github.io/al-folio-test/# the subpath of your site, e.g. /blog//sitemap.xml
