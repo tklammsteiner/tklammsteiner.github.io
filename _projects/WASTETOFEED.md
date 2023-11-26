@@ -8,3 +8,13 @@ category: basic research
 related_publications: klammsteiner_proteinquelle_2018, klammsteiner_core_2020, klammsteiner_suitability_2020, klammsteiner_impact_2021
 ---
 
+<br>
+
+### **Project details**
+
+***
+**Funding agency:** Austrian Science Fund (FWF)  
+**Period:** Nov. 2014 - Nov. 2018  
+**Budget:** 158,635 €  
+**Function:** PhD student  
+**Link:** [Grant no. P26444](https://www.fwf.ac.at/en/research-radar/10.55776/P26444)

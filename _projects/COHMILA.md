@@ -8,3 +8,13 @@ category: basic research
 related_publications: 
 ---
 
+<br>
+
+### **Project details**
+
+***
+**Funding agency:**  Tiroler Wissenschaftsfoerderung (TWF)  
+**Period:** Jul. 2020 - May 2021  
+**Budget:** 16,000 €  
+**Function:** PI  
+**Link:** [COHMILA Shiny App](https://tklammsteiner.shinyapps.io/cohmila-app/)

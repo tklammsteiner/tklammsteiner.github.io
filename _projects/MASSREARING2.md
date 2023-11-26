@@ -8,3 +8,13 @@ category: applied research
 related_publications: 
 ---
 
+<br>
+
+### **Project details**
+
+***
+**Funding agency:** Austrian Research Promotion Agency (FFG)  
+**Period:** Nov. 2021 - Jul. 2022  
+**Budget:**  17,500 €  
+**Function:** PI  
+**Link:**
