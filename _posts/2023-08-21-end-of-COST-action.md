@@ -5,7 +5,7 @@ date: 2023-08-21 12:00:00+0100
 description: Our COST Action on "Statistical and Machine Learning Techniques for Human Microbiome Studies" has come to an end.
 tags: research, networking, collaboration, microbiome, machine learning
 categories: projects
-giscus_comments: true
+giscus_comments: false
 related_posts: false
 related_publications: moreno-indias_statistical_2021, zambrano_applications_2021, delia_advancing_2023, papoutsoglou_machine_2023, marcos_zambrano_toolbox_2023
 ---
