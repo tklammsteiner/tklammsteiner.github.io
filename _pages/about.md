@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Postdoctoral researcher<br>
-       Department of Microbiology & Department of Ecology<br>
+       Department of Ecology<br>
        University of Innsbruck, Innsbruck, Austria</p>
 
 news: true  # includes a list of news items
