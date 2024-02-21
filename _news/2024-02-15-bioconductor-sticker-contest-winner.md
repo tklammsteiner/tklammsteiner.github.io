@@ -5,6 +5,8 @@ title: "Won the sticker contest for this year's European Bioconductor Conference
 inline: false
 ---
 
+![](assets/img/bioconductor.jpg)
+
 After years of using numerous Bioconductor packages, I am happy to be able to make a small contribution to this great community.
 
 - Bioconductor's [LinkedIn announcement](https://www.linkedin.com/posts/bioconductor_eurobioc2024-openscience-bioinformatics-activity-7163867659518877696-k1t_?utm_source=share&utm_medium=member_desktop)  
