@@ -19,8 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a microbiologist working on microbial communities and microbe-host interactions. My main work revolves around microbiomes related to <a href="https://www.fromwastetofeed.com/">insect farming</a> and investigating dynamics in insect mass-rearing.  
-
-Besides that, I am actively contributing to research activities taking place in the Microbial Resource Management group at the <a href="https://www.uibk.ac.at/microbiology/index.html.en">Department of Microbiology</a> and the Molecular Ecology group at the <a href="https://www.uibk.ac.at/ecology">Department of Ecology</a> of the <a href="https://www.uibk.ac.at">University of Innsbruck</a>.  
-
-My interests include microbiome research, data science and visualization, and making processes more efficient in a sustainable way.
+I’m a microbiologist passionate about microbial ecology and all kinds of microbe-host interactions. My current research focuses on using 'omics methods to explore microbiota associated with [industrially farmed insects](https://www.fromwastetofeed.com), as well as understanding physicochemical dynamics in insect mass-rearing. My interests span across microbiome research, data science, and visualization, as well as driving sustainable efficiency improvements in various processes.
