@@ -12,7 +12,7 @@ Our latest study delves deep into the world of insect frass, shedding light on i
 Link to full study: [doi.org/10.1016/j.jenvman.2024.120622](https://doi.org/10.1016/j.jenvman.2024.120622)
 
 <figure>
-  <img src="/assets/img/j_environ_manage_2024.jpg" width="100%">
+  <img src="/assets/img/publication_preview/j_environ_manage_2024.jpg" width="100%">
   <figcaption><i>Graphical abstract - Physicochemical and microbiological assessment of frass from black soldier fly (BSF), yellow mealworm (YMW), and Jamaican field cricket (JFC) and the impact of heat treatment. TS = total solids, VS = volatile solids, C:N = carbon to nitrogen ratio, NH<sub>4</sub><sup>+</sup>-N = ammonium nitrogen, NO<sub>2</sub>–NO<sub>3</sub><sup>-</sup>-N = nitrite and nitrate nitrogen, EC = electrical conductivity, TDS = total dissolved solids, MR = microbial respiration, C<sub>mic</sub> = microbial biomass carbon, MQ = metabolic quotient. ns: p > 0.05, *: p ≤ 0.05, **: p ≤ 0.01, ***: p ≤ 0.001, ****: p ≤ 0.0001, STD-I = standard I nutrient agar, ooR = out of range, bdl = below detection limit..</i></figcaption>
 </figure>
 
