@@ -41,13 +41,13 @@ Summer Term 2021;
 
 ## (Co-)supervised students
 
-- **Elisa Gemassmer:**  
-Isolation and characterization of microbes associated with black soldier fly oviposition  
-Master thesis (*in progress*)
-
 - **Maria Payr:**  
 Austrian wastewater microbiome  
 Master thesis (*in progress*)
+
+- **Elisa Gemassmer:**  
+Isolation and characterization of microbes associated with black soldier fly oviposition  
+Master thesis
 
 - **Veronika Rehm:**  
 Analysis of 16S rRNA Illumina amplicon sequencing data of microbial communities -

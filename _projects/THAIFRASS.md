@@ -8,6 +8,8 @@ category: basic research
 related_publications:
 ---
 
+In collaboration with [Siripuk Suraporn](https://science.msu.ac.th/en/our-departments/academic-staff-biology/) at Mahasarakham University, Thailand.  
+
 <br>
 
 ### **Project details**

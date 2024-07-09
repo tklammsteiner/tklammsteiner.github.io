@@ -2,7 +2,7 @@
 layout: page
 title: "Frass4Gas"
 description: "Pre-treatment of industrial insect breeding residues for anaerobic digestion"
-img: 
+img: assets/img/frass4gas.png
 importance: 3
 category: basic research
 related_publications: 
@@ -18,3 +18,9 @@ related_publications:
 **Budget:** 10,400 €  
 **Function**: PI  
 **Link:**
+
+<br>
+
+### **Description**
+
+***

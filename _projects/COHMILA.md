@@ -2,7 +2,7 @@
 layout: page
 title: "Larval housemates"
 description: "Co-housing effect on the microbiome of black soldier fly larvae"
-img: 
+img: assets/img/cohousing.jpg
 importance: 4
 category: basic research
 related_publications: 
@@ -18,3 +18,9 @@ related_publications:
 **Budget:** 16,000 €  
 **Function:** PI  
 **Link:** [COHMILA Shiny App](https://tklammsteiner.shinyapps.io/cohmila-app/)
+
+<br>
+
+### **Description**
+
+***

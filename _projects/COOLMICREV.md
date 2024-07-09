@@ -2,7 +2,7 @@
 layout: page
 title: "Industrial microbiome revisited"
 description: "Cooling-liquid microbiome revisited"
-img: 
+img: assets/img/coolingliquidrev.png
 importance: 4
 category: commissioned research
 ---
