@@ -20,7 +20,6 @@ In collaboration with Dr. Sabine Gruber and her [ChisMeT](https://www.chitoscien
 **Period:** Mar. 2022 - Jun. 2024  
 **Budget:**  344,903 €  
 **Function:** PI  
-**Link:**
 
 <br>
 

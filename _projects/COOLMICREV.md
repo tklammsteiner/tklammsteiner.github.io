@@ -14,7 +14,6 @@ category: commissioned research
 ***
 **Funding agency:** Commissioned research  
 **Period:** Oct. 2020 - Apr. 2021  
-**Budget:** -  
 **Function:** PI  
 
 <br>

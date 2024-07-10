@@ -18,7 +18,7 @@ In collaboration with [Jeffery Tomberlin](https://entomology.tamu.edu/people/tom
 **Funding agency:** Austrian Science Fund (FWF)  
 **Period:** Mar. 2022 - Mar. 2026  
 **Budget:**  590,725 €  
-**Function:** Co-PI  
+**Function:** Co-PI / PostDoc 
 **Link:** [Grant no. P35401](https://www.fwf.ac.at/en/research-radar/10.55776/P35401)
 
 <br>
