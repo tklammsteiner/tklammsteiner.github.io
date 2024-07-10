@@ -16,4 +16,9 @@ related_publications: klammsteiner_microbiota_2018
 **Funding agency:** Commissioned research  
 **Period:** Mar. 2016 - Jul. 2017  
 **Function:** Master student  
-**Link:**
+
+<br>
+
+### **Description**
+
+***

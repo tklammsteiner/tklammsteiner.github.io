@@ -34,3 +34,10 @@ The aims of this project are:
 - Hygiene screening and monitoring of pathogens.
 
 <br>
+
+### **Involved students**
+- Simon Oberegger (bachelor thesis)
+- Katharina Stonig (bachelor thesis)
+- Anna Serra (bachelor thesis)
+
+<br>
