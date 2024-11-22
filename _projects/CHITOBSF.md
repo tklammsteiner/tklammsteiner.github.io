@@ -5,7 +5,7 @@ description: "Expanding the value chain – biological extraction of chitosan fo
 img: assets/img/chitobsf.jpg
 importance: 1
 category: applied research
-related_publications: 
+related_publications: escobar_euchis_2024
 ---
 
 
