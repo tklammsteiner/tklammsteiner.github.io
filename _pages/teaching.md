@@ -13,7 +13,7 @@ nav_order: 5
 Laboratory course  
 Department of Microbiology  
 University of Innsbruck  
-Winter term 2018, 2019, 2020, 2021, 2022, 2023;  
+Winter term 2018, 2019, 2020, 2021, 2022, 2023, 2024;  
 [[link]](https://uibk.ac.at/microbiology/) | [[course]](https://tklammsteiner.github.io/waste-management-course/)  
 
 **Introduction to Bioinformatics**  
