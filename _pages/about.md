@@ -6,7 +6,7 @@ subtitle: <b>microbes | environment | data</b>
 
 profile:
   align: right
-  image: prof_pic.png
+  # image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Postdoctoral researcher<br>
@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a microbiologist passionate about microbial ecology and all kinds of microbe-host interactions. My current research focuses on using 'omics methods to explore microbiota associated with [industrially farmed insects](https://www.fromwastetofeed.com), as well as understanding physicochemical dynamics in insect mass-rearing. My interests span across microbiome research, data science, and visualization, as well as driving sustainable efficiency improvements in various processes.
+I am a microbiologist specializing in microbial ecology, with a strong focus on microbiome research related to digestion and microbe-host interactions. I am broadly interested in biological data science and apply advanced analytical approaches to better understand complex biological systems. Through my research, I aim to contribute new insights and practical solutions that bridge fundamental science and real-world applications.
