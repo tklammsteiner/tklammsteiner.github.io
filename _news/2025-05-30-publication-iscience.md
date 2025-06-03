@@ -13,13 +13,15 @@ Link to full study: [doi.org/10.1016/j.isci.2025.112794](https://doi.org/10.1016
 
 <figure>
   <img src="/assets/img/publication_preview/iscience_2025.png" width="75%">
-  <figcaption><i>Graphical abstract.</i></figcaption>
+  <figcaption><b>Graphical abstract.</b> An overview of the key outputs from the black soldier fly bioconversion process, accompanied by an illustration of how increasing larval densities influence substrate temperature profiles. The addition of potassium sorbate not only delays and reduces peak temperatures but also impacts larval development.</figcaption>
 </figure>
+
+</br>
 
 **Additional information:**  
 We have also created a website that provides comprehensive data download options and detailed documentation. The website is linked in the publication and can be accessed at: [tklammsteiner.github.io/templarvae](https://tklammsteiner.github.io/templarvae).  
 
 <figure>
-  <img src="/assets/img/templarvae_documentation.gif" width="40%">
-  <figcaption><i>A preview of the website providing additional information on the data and analysis.</i></figcaption>
+  <img src="/assets/img/templarvae_documentation.gif" width="55%">
+  <figcaption><b>Figure 1.</b> A preview of the website providing additional information on the data and analysis.</i></figcaption>
 </figure>
