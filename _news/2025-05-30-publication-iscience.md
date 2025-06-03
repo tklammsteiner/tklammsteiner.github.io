@@ -17,7 +17,7 @@ Link to full study: [doi.org/10.1016/j.isci.2025.112794](https://doi.org/10.1016
 </figure>
 
 **Additional information:**  
-We have also created a website that provides comprehensive data download options and detailed documentation. The website is linked in the publication and can be accessed at: https://tklammsteiner.github.io/templarvae.
+We have also created a website that provides comprehensive data download options and detailed documentation. The website is linked in the publication and can be accessed at: [tklammsteiner.github.io/templarvae](https://tklammsteiner.github.io/templarvae).  
 
 <figure>
   <img src="/assets/img/templarvae_documentation.gif" width="100%">
