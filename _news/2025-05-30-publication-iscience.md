@@ -27,3 +27,5 @@ We have also created a website that provides comprehensive data download options
   <img src="/assets/img/templarvae_documentation.gif" width="55%">
   <figcaption><b>Figure 1.</b> A preview of the website providing additional information on the data and analysis.</i></figcaption>
 </figure>
+
+<br>
