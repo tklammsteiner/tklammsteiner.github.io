@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Insect mass-rearing 1"
-description: "Breeding and biotechnology for insect farming (Part 1)"
+title: "Insect mass-rearing"
+description: "Breeding and biotechnology for insect farming"
 img: assets/img/massrearing1.jpg
 importance: 4
 category: applied research
@@ -15,9 +15,9 @@ In collaboration with [Ecofly GmbH](https://www.ecofly.at/de) Austria.
 ### **Project details**
 
 ***
-**Funding agency:** Austrian Research Promotion Agency (FFG)  
-**Period:** Jan. 2020 - Mar. 2021  
-**Budget:**  35,000 €  
+**Funding agency:** Austrian Research Promotion Agency (FFG) / Commissioned  
+**Period:** Jan. 2020 - Jul. 2022  
+**Budget:**  52,600 €  
 **Function:** PI  
 **Link:**
 

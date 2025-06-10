@@ -11,3 +11,4 @@ vendor
 
 _news/news_to_be_published/*
 _posts/posts_to_be_published/*
+.Rproj.user

@@ -5,7 +5,7 @@ description: "Towards decrypting the semiochemical communication between microbe
 img: assets/img/semchemcom.jpg
 importance: 2
 category: basic research
-related_publications: 
+related_publications: tomberlin_bugbook_2025, 
 ---
 
 In collaboration with [Jeffery Tomberlin](https://entomology.tamu.edu/people/tomberlin-jeff/) of Texas A&M University, [Manfred Ayasse](https://www.uni-ulm.de/nawi/evolutionary-ecology-and-conservation-genomics/prof-dr-manfred-ayasse/) of University of Ulm, and [Stefan Schulz](http://www.oc.tu-bs.de/schulz/html/sschulz.html) of Univeristy of Braunschweig.
@@ -18,7 +18,7 @@ In collaboration with [Jeffery Tomberlin](https://entomology.tamu.edu/people/tom
 **Funding agency:** Austrian Science Fund (FWF)  
 **Period:** Mar. 2022 - Mar. 2026  
 **Budget:**  590,725 €  
-**Function:** Co-PI / PostDoc 
+**Function:** Co-applicant / PostDoc  
 **Link:** [Grant no. P35401](https://www.fwf.ac.at/en/research-radar/10.55776/P35401)
 
 <br>
