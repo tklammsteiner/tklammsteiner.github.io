@@ -1,12 +1,11 @@
 ---
 layout: post
-date: 2025-0gi5-30 01:00:00+0100
+date: 2025-05-30 01:00:00+0100
 title: "New publication: Klammsteiner et al. (2025) iScience 28(7), 112794"
 inline: false
 related_posts: false
 related_publications: klammsteiner_iscience_2025
 ---
-
 **Study summary:**  
 In this study, we investigated how varying larval densities influence thermogenesis in black soldier fly larvae (BSFL) reared on food waste, and assessed the potential of potassium sorbate as an agent to reduce heat generation. By monitoring temperature changes within the substrate, we observed that larval density significantly drives thermogenesis, with higher densities leading to increased heat production. The presence of potassium sorbate, however, was associated with reduced larval biomass gain and slower waste degradation, which in turn impacted the extent of thermogenesis observed. Additionally, we found that the supplementation of potassium sorbate altered the physicochemical properties of the substrate and shifted the composition of both gut and frass microbiomes. These findings highlight the interconnected effects of preservative residues on larval metabolism, heat generation, and microbial dynamics in BSFL-based food waste bioconversion systems.  
 
