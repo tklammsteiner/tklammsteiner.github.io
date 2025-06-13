@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-05-30 01:00:00+0100
-title: "New publication: Klammsteiner et al. (2025) iScience, in press"
+date: 2025-0gi5-30 01:00:00+0100
+title: "New publication: Klammsteiner et al. (2025) iScience 28(7), 112794"
 inline: false
 related_posts: false
 related_publications: klammsteiner_iscience_2025
